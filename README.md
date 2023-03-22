@@ -18,10 +18,11 @@ Here are some ideas to get you started:
 -->
 
 # Hello, me chamo Camille Janine! 
-## Bem vindo ao meu perfil GitHub ✨
-###Cursando Análise e Desenvolvimento de Sistemas no IF Baiano - Campus Guanambi
+## Bem vindo(a) ao meu perfil GitHub ✨
+## Estou cursando Análise e Desenvolvimento de Sistemas no IF Baiano - Campus Guanambi
 
 
+<!--
 ## Ferramentas e Tecnologias:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 
@@ -45,3 +46,5 @@ Here are some ideas to get you started:
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=millyvasc&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=millyvasc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+-->
