@@ -1,6 +1,6 @@
 # Hello Everyone, Camille aqui ✨
 
-<img align="right" alt="GIF" height="150px" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif"/>
+<img align="right" alt="GIF" height="157px" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif"/>
 
 ## Cursando Análise e Desenvolvimento de Sistemas - IFBaiano
 - 💜 4° Semestre
