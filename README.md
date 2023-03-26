@@ -26,7 +26,7 @@
 <div align="center">
   <a href="https://github.com/millyvasc">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=millyvasc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=millyvasc&theme=react&line_height=40&hide=css"/>
+  <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=millyvasc&theme=react&line_height=40&hide=css"/>-->
 </div>
   
   
