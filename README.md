@@ -1,11 +1,11 @@
 # Hello Everyone, Camille aqui ✨
 
-<img align="right" alt="GIF" height="157px" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif"/>
+<img align="right" alt="GIF" height="160px" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif"/>
 
 ## Cursando Análise e Desenvolvimento de Sistemas - IFBaiano
 - 💜 4° Semestre
 - 🌙 Aprendendo Python e PHP 
-- ☕ “Medir o progresso da programação por linhas de código é como medir o progresso da construção de aeronaves em termos de peso.” - Bill Gates
+- ☕ “Medir o progresso da programação por linhas de código é como medir o progresso da<br>construção de aeronaves em termos de peso.” - Bill Gates
 
 ---
 
@@ -21,12 +21,14 @@
   <img align="center" alt="Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   </div>
 
+
 ### <br><br> - Estatisticas GitHub:
 <div align="center">
   <a href="https://github.com/millyvasc">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=millyvasc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=millyvasc&theme=react&line_height=40&hide=css"/>
 </div>
+  
   
 ### <br><br> - Contatos
 <div>
