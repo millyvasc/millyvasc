@@ -5,7 +5,7 @@
 ## Cursando Análise e Desenvolvimento de Sistemas - IFBaiano
 - 💜 4° Semestre
 - 🌙 Aprendendo Python e PHP 
-- ☕ “Medir o progresso da programação por linhas de código é como medir o progresso da<br>construção de aeronaves em termos de peso.” - Bill Gates
+- ☕ “Medir o progresso da programação por linhas de código é como medir o progresso da construção de aeronaves em termos de peso.” - Bill Gates
 
 ---
 
