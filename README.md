@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" height="160px" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif"/>
 
 - 💜 Cursando Análise e Desenvolvimento de Sistemas - IFBaiano
-- 📘 4° Semestre 
+- 📘 5° Semestre 
 - 🌙 Aprendendo Python e PHP 
 - ☕ “Medir o progresso da programação por linhas de código é como medir o progresso da construção de aeronaves em termos de peso.” - Bill Gates
 
